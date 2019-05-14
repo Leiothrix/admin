@@ -1,0 +1,10 @@
+${AnsiColor.BRIGHT_YELLOW}
+            _           _
+           | |         (_)
+   __ _  __| |_ __ ___  _ _ __
+  / _` |/ _` | '_ ` _ \| | '_ \
+ | (_| | (_| | | | | | | | | | |
+  \__,_|\__,_|_| |_| |_|_|_| |_|
+
+${AnsiColor.BRIGHT_BLUE}
+Application Version:${application.formatted-version} ＼(^O^)／ Spring-Boot Version:${spring-boot.formatted-version}
